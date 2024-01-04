@@ -52,8 +52,8 @@ header{
 .btn-reserve{
     padding: 10px 20px;
     background: #fb911f;
-   margin-top: -10px;
-   text-transform:uppercase ;
+    margin-top: -10px;
+    text-transform:uppercase ;
 }
 
 .btn-reserve:hover{
